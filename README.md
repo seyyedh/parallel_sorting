@@ -1,4 +1,5 @@
-# parallel_sorting
+## parallel_sorting
+---------------------------------------------------------
 Implementation of sorting algorithm on mesh architecture 
 
 
